@@ -4,8 +4,9 @@ A quick tutorial on simulating counting processes in Python using Ogata's method
 
 Covers:
 
-Homogeneous and inhomogeneous Poisson processes
-Basic Hawkes processes
+ * Homogeneous and inhomogeneous Poisson processes
+ 
+ * Basic Hawkes processes
 
 More info in the notebook. 
 
